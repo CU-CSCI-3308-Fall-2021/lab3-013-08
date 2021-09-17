@@ -1,6 +1,8 @@
 # lab3-013-08
-Project Team Members: Connor Davel
+Project Team Members:
+Christian Lamb
+Fletcher Collins
 Connor Davel
-Practice Git Commands
-
+New line
+Corrected changes made by Mallory
 Corrected the changes made by Connor
