@@ -1,7 +1,9 @@
 # lab3-013-08
-Practice Git Commands
 Project Team Members:
+Christian Lamb
+Fletcher Collins
+Connor Davel
 Mallory Benna
 New line
-
-Corrected the changes made by Shruthi.
+Corrected changes made by Mallory
+Corrected the changes made by Connor
